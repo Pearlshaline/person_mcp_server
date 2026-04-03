@@ -6,7 +6,7 @@ An MCP (Model Context Protocol) server that exposes Person CRUD operations as to
 
 ### 1. Clone and install
 ```bash
-git clone https://github.com/Pearlshaline/person-mcp-server.git
+git clone https://github.com/Pearlshaline/person_mcp_server.git
 cd person-mcp-server
 npm install
 ```
