@@ -7,7 +7,7 @@ An MCP (Model Context Protocol) server that exposes Person CRUD operations as to
 ### 1. Clone and install
 ```bash
 git clone https://github.com/Pearlshaline/person_mcp_server.git
-cd person-mcp-server
+cd person_mcp_server
 npm install
 ```
 
@@ -66,11 +66,17 @@ Fully quit and reopen Claude Desktop. You should see the 🔨 tools icon.
 ## Example Prompts in Claude Desktop
 
 - "List all persons in the database"
-- "Create a person named John Doe with email john@example.com, age 25"
-- "Get person with ID 1"
-- "Update person 1's phone to +639123456789"
-- "Search for persons named Pearl"
-- "Delete person with ID 5"
+![Example #1](/screenshots/Q1.png)
+- "Create a person named John Doe with email john@example.com, age 25, phone + 63 946 882 2314"
+![Example #2](/screenshots/Q2.png)
+- "Get person with ID 12"
+![Example #3](/screenshots/Q3.png)
+- "Update person 12's age to 21"
+![Example #4](/screenshots/Q4.png)
+- "Search for persons named Ana Reyes"
+![Example #5](/screenshots/Q5.png)
+- "Delete person with ID 7"
+![Example #6](/screenshots/Q6.png)
 
 ## Tech Stack
 
