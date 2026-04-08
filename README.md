@@ -65,18 +65,6 @@ Fully quit and reopen Claude Desktop. You should see the 🔨 tools icon.
 
 ## Example Prompts in Claude Desktop
 
-- "List all persons in the database"
-![Example #1](/screenshots/Q1.png)
-- "Create a person named John Doe with email john@email.com, age 25, phone + 63 946 882 2314"
-![Example #2](/screenshots/Q2.png)
-- "Get person with ID 2"
-![Example #3](/screenshots/Q3.png)
-- "Update person 2's age to 36"
-![Example #4](/screenshots/Q4.png)
-- "Search for persons named Ana Reyes"
-![Example #5](/screenshots/Q5.png)
-- "Delete person with ID 1"
-![Example #6](/screenshots/Q6.png)
 
 ## Tech Stack
 
